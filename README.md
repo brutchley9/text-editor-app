@@ -6,7 +6,11 @@ This application is a fun and useful text editor designed to be invoked within t
 
 ---
 
-Follow link ---------------- to view this application.
+<img src="./images/JATEscreenshot.png">
+
+---
+
+Follow link https://text-editor-app-zq3d.onrender.com/ to view this application.
 
 Follow link https://github.com/brutchley9/text-editor-app to access GitHub repository for this website (including code).
 
